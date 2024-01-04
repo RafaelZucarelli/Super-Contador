@@ -1,0 +1,26 @@
+body{
+    background-image: url('pexels-karolina-grabowska-5412429\ \(1\).jpg');
+    font: normal 15pt Arial;
+    background-position: center;
+    position: relative;
+}
+
+header{
+    color: black;
+    text-align: center; /* ALINHA TEXTO AO MEIO */
+}
+
+section{
+    background: white;
+    border-radius: 10px; /*borda arredondada*/
+    padding: 15px;
+    width: 500px; /* largura */
+    margin: auto; /* MEIO DA TELA */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.658); 
+}
+
+footer{
+    color: black;
+    text-align: center; /* ALINHA TEXTO AO MEIO */
+    font-style: italic;
+}
