@@ -1,6 +1,6 @@
 # Desafio Curso em Vídeo | Super Contador
 
-## Tabela do Conteudo
+## Tabela do Conteúdo
 
 <ul>
 <li><a href="#sobre">Sobre</a></li>
